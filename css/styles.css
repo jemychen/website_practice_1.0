@@ -17,6 +17,12 @@ h1 {
     line-height: 1.5;
 }
 
+h2 {
+    font-family: "Monterserrat=Bold";
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 h3 {
     font-family: "Montserrat-Bold"
 }
