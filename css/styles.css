@@ -60,16 +60,19 @@ p {
 .title-image {
     width: 60%;
     transform: rotate(25deg);
+    position: absolute;
 }
 
 /* Features */
 #features {
     padding: 7% 15%;
+    background-color: #fff;
+    position: relative;
 }
 
 .feature-box {
     text-align: center;
-    padding: 3%;
+    padding: 4.5%;
 }
 
 .icon {
