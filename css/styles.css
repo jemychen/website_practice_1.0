@@ -135,8 +135,13 @@ p {
 
 /* Footer section */
 #footer {
+    padding: 7% 15%;
     text-align: center;
-    padding: 5% 5%;
+    
+}
+
+.social-icon {
+    margin: 20px 10px;
 }
 
 .pricing-column {
