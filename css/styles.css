@@ -35,6 +35,11 @@ p {
     line-height: 1.5;
 }
 
+.section-heading {
+    font-size: 3rem;
+    line-height: 1.5;
+}
+
 /* Navigation Bar */
 .navbar{
     padding: 0 0 4.5rem;
@@ -96,6 +101,11 @@ p {
     color: #fff;
 }
 
+.testimonial-text {
+    font-size: 3rem;
+    line-break: 1.5;
+}
+
 .testimonial-image {
     width: 10%;
     border-radius: 100%;
@@ -121,6 +131,11 @@ p {
 #pricing {
     padding: 100px;
     text-align: center;
+}
+
+.price-text{
+    font-size: 3rem;
+    line-height: 1.5;
 }
 
 /* CTA Section */
