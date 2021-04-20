@@ -3,24 +3,6 @@ body {
     text-align: center;
 }
 
-#title {
-    background-color: #ff4c68;
-    color: #fff;
-    text-align: left;
-}
-
-.container-fluid {
-    padding: 3% 15% 7%;
-}
-
-h1, h2, h3, h4, h5, h6 {
-    font-family: "Monterserrat-Bold";
-}
-
-p {
-    color: #8f8f8f;
-}
-
 /* Headings */
 .big-heading {
     font-family: "Montserrat-Black";
@@ -31,6 +13,21 @@ p {
 .section-heading {
     font-size: 3rem;
     line-height: 1.5;
+}
+
+/* Containers */
+
+.container-fluid {
+    padding: 3% 15%;
+}
+
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Monterserrat-Bold";
+}
+
+p {
+    color: #8f8f8f;
 }
 
 /* Navigation Bar */
@@ -51,6 +48,18 @@ p {
 .nav-link {
     font-size: 1.2rem;
     font-family: "Montserrat-Light";
+}
+
+/* Title Section */
+
+#title {
+    background-color: #ff4c68;
+    color: #fff;
+    text-align: left;
+}
+
+#title .container-fluid {
+    padding: 3% 15% 7%;
 }
 
 /* Download Buttons */
