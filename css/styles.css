@@ -107,7 +107,6 @@ p {
 /* Testimonials */
 #testimonials {
     background-color: #ef8172;
-    color: #fff;
 }
 
 .testimonial-text {
@@ -143,10 +142,7 @@ p {
 }
 
 /* CTA Section */
-#cta {
-    background-color: #ff4c68;
-    color: #fff;
-}
+
 
 /* Footer section */
 
